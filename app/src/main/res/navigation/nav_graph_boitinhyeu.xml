@@ -8,7 +8,7 @@
 
     <fragment
         android:id="@+id/fragmentBoiTinhYeu"
-        android:name="com.myapp.lib_boitinhyeu.FragmentBoiTinhYeu"
+        android:name="com.myapp.app46.FragmentBoiTinhYeu"
         android:label="fragment_boi_tinh_yeu"
         tools:layout="@layout/fragment_boi_tinh_yeu" >
         <action
@@ -18,7 +18,7 @@
     </fragment>
     <fragment
         android:id="@+id/fragmentBoiTinhYeuDes"
-        android:name="com.myapp.lib_boitinhyeu.FragmentBoiTinhYeuDes"
+        android:name="com.myapp.app46.FragmentBoiTinhYeuDes"
         android:label="fragment_boi_tinh_yeu_des"
         tools:layout="@layout/fragment_boi_tinh_yeu_des" >
         <action
@@ -27,7 +27,7 @@
     </fragment>
     <fragment
         android:id="@+id/fragmentBoiTinhYeuDes2"
-        android:name="com.myapp.lib_boitinhyeu.FragmentBoiTinhYeuDes2"
+        android:name="com.myapp.app46.FragmentBoiTinhYeuDes2"
         android:label="fragment_boi_tinh_yeu_des2"
         tools:layout="@layout/fragment_boi_tinh_yeu_des2" >
         <action
@@ -36,7 +36,7 @@
     </fragment>
     <fragment
         android:id="@+id/fragmentBoiTinhYeuDes3"
-        android:name="com.myapp.lib_boitinhyeu.FragmentBoiTinhYeuDes3"
+        android:name="com.myapp.app46.FragmentBoiTinhYeuDes3"
         android:label="fragment_boi_tinh_yeu_des3"
         tools:layout="@layout/fragment_boi_tinh_yeu_des3" >
         <action

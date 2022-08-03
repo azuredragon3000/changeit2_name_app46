@@ -8,7 +8,7 @@
         android:id="@+id/home"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/background_lovetest2"
+        android:background="@color/bright_blue"
         tools:ignore="UselessParent">
 
         <LinearLayout
@@ -36,7 +36,7 @@
                     <ImageView
                         style="@style/home_image"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/icon_boitinhyeu"
+                        android:src="@drawable/love"
                         tools:ignore="ContentDescription" />
 
                     <TextView
@@ -78,7 +78,7 @@
 
                     <ImageView
                         style="@style/home_image"
-                        android:src="@drawable/batquai1"
+                        android:src="@drawable/boiphuongtay"
                         tools:ignore="ContentDescription" />
 
 
@@ -126,7 +126,7 @@
                 <ImageView
                     style="@style/home_image"
                     android:adjustViewBounds="true"
-                    android:src="@drawable/icon_boiphuongtay"
+                    android:src="@drawable/boiphuongdong"
                     tools:ignore="ContentDescription" />
 
                 <LinearLayout

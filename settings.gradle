@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "lib_boitinhyeu"
+rootProject.name = "app46"
 include ':app'

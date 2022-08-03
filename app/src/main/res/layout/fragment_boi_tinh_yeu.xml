@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@drawable/bty_azuredragon_bg"
-    android:theme="@style/Theme.AppCompat.Light"
     tools:context=".FragmentBoiTinhYeu">
 
     <LinearLayout
@@ -164,9 +163,9 @@
         android:layout_centerHorizontal="true"
         android:layout_gravity="center"
         android:layout_marginTop="50dp"
-        android:background="@drawable/button_custom"
+        android:background="@color/black"
         android:text="@string/fragboitinhyeu_batdauboi"
-        android:textColor="@android:color/holo_blue_dark"
+        android:textColor="@android:color/white"
         android:textStyle="bold"
         />
 

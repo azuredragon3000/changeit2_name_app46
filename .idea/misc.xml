@@ -3,12 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/drawable-v24/button.xml" value="0.1" />
         <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/drawable-v24/button_custom.xml" value="0.1" />
+        <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/drawable-v24/button_disable.xml" value="0.1" />
+        <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/drawable-v24/button_pressed.xml" value="0.1" />
         <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/layout/activity_btymain.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/layout/fragment_boi_tinh_yeu.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/layout/fragment_boi_tinh_yeu_des.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/layout/fragment_boi_tinh_yeu_des2.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/layout/fragment_boi_tinh_yeu_des3.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Huy Cuong/AndroidStudioProjects/lib_boitinhyeu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>

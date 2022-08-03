@@ -1,4 +1,4 @@
-package com.myapp.lib_boitinhyeu;
+package com.myapp.app46;
 
 import org.junit.Test;
 
