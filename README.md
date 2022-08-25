@@ -1,3 +1,13 @@
+Screenshot_20220803_234339.png  
+<img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/Screenshot_20220803_234339.png" />   
+Screenshot_20220803_234838.png  
+<img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/Screenshot_20220803_234838.png" />   
+Screenshot_20220803_234847.png  
+<img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/Screenshot_20220803_234847.png" />   
+app/src/main/ic_launcher-playstore.png  
+<img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/app/src/main/ic_launcher-playstore.png" />   
+app/src/main/res/drawable-v24  
+<img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/app/src/main/res/drawable-v24" />   
 app/src/main/res/drawable-v24/button.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/app/src/main/res/drawable-v24/button.xml" />   
 app/src/main/res/drawable-v24/button_custom.xml  
@@ -8,6 +18,8 @@ app/src/main/res/drawable-v24/button_pressed.xml
 <img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/app/src/main/res/drawable-v24/button_pressed.xml" />   
 app/src/main/res/drawable-v24/ic_launcher_foreground.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />   
+app/src/main/res/drawable  
+<img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/app/src/main/res/drawable" />   
 app/src/main/res/drawable/background_lovetest2.jpg  
 <img src="https://github.com/azuredragon3000/googleconsole_boitinhyeu_app46/blob/master/app/src/main/res/drawable/background_lovetest2.jpg" />   
 app/src/main/res/drawable/background_lovetest5.jpg  
